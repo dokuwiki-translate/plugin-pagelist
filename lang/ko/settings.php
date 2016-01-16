@@ -29,6 +29,6 @@ $lang['showcomments']          = '댓글 열 보기 (Discussion 플러그인 필
 $lang['showlinkbacks']         = '링크백 열 보기 (Linkback 플러그인 필요)';
 $lang['showtags']              = '태그 열 보기 (Tag 플러그인 필요)';
 $lang['showfirsthl']           = '문서 이름 대신 첫 제목줄 보이기';
-$lang['showdiff']              = '차이 보기 링크 보이기';
+$lang['showdiff']              = '문서 차이 링크 보이기';
 $lang['sort']                  = '문서 이름 순으로 정렬';
 $lang['rsort']                 = '문서 이름 역순으로 정렬';
